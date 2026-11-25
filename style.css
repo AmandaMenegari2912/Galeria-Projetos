@@ -8,7 +8,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #fef6f3;
     padding: 30px;
 }
 
@@ -34,8 +34,8 @@ h1 {
 .card {
     width: 270px;
     min-height: 350px;
-    background-color: rgb(255, 255, 254);
-    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
     padding: 15px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 
@@ -50,7 +50,7 @@ h1 {
 /* TÍTULO DO CARD */
 .card h2 {
     font-size: 20px;
-    color: #333;
+    color: #000000;
     text-align: center;
     margin-bottom: 5px;
 }
